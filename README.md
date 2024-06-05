@@ -1,4 +1,4 @@
-# cloudArchitecture_TTI
+# CloudArchitecture_TTI
 High scalable and available infrastructure from AWS
 
 ## Planning
