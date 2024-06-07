@@ -10,5 +10,5 @@ High scalable and available infrastructure from AWS
 
 ### Arquitectura
 The following image shows the proposed architecture given the previous requirements
-![Proposed architecture](/img/infraestructura.png)
+![Proposed architecture](main/img/Infraestructura.png)
 
