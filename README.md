@@ -9,4 +9,6 @@ High scalable and available infrastructure from AWS
 * Requerimiento 3
 
 ### Arquitectura
-On the following image shows the proposed architecture given the previous requirements
+The following image shows the proposed architecture given the previous requirements
+![Proposed architecture](/img/infraestructura.png)
+
